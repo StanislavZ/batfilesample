@@ -5,4 +5,4 @@ $currentDateTime = Get-Date
 Write-Host "The current date and time is: $currentDateTime"
 
 # Display the message 
-Write-Host "Hello, New World Again 2 Test!"
+Write-Host "Hello, New World Again 2 Test Test!"
